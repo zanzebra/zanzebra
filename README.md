@@ -1,5 +1,9 @@
 ### Hi there 👋
+---
 ![Twitter Follow](https://img.shields.io/twitter/follow/Zan_zebra101?label=Lets%20link%20up%20&style=social)
+
+I am a fullstack web developer. I specialize in working with React on the frontend and Node on the backend.
+I am currently learning the awesome features of ThreeJs and D3js for rendering rich color and dynamic website.
 <!--
 **zanzebra/zanzebra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
