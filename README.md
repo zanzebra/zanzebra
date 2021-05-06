@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Twitter Follow](https://img.shields.io/twitter/follow/Zan_zebra101?label=Lets%20link%20up%20&style=social)
 <!--
 **zanzebra/zanzebra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
