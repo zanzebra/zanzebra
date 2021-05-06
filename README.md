@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-![Twitter Follow](https://img.shields.io/twitter/follow/Zan_zebra101?label=Lets%20link%20up%20&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/Zan_zebra101?label=Twitter%20Followers%20&style=flat)
 
 I am a fullstack web developer. I specialize in working with React on the frontend and Node on the backend.
 
